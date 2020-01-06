@@ -1,9 +1,6 @@
 ## UAB "Direga"
 
-El. pastas: info@direga.
-Telefonas: +37033312345
+### Rekvizitai
 
-### Adresas
-
-Lietuviniku a. 11-1
-
+- El. pastas: info@direga.
+- Telefonas: +37033312345
