@@ -2,6 +2,7 @@
 
 ### Rekvizitai
 
-- El. pastas: info@direga.
-- Telefonas: +37033312345
-- Adresas: Lietuviniku a. 11-1, Klaipeda
+- El. paštas: info@direga.lt
+- Telefonas: +37065795042
+- Adresas: Lietuvinikų a. 11-1, Klaipėda
+- Įmonės kodas: 300821509
